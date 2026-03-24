@@ -10,7 +10,7 @@ O código foi estruturado seguindo boas práticas de organização em diretório
 - **Extensões úteis:** C/C++ (Microsoft), CMake Tools (opcional)
 
 ## Compilação e Execução
-- Para a execução do programa principal:
+-Para a execução do programa principal:
 ```bash
 ./main
 
