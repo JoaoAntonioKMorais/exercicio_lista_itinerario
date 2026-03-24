@@ -1,0 +1,46 @@
+# Compiled object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+a.out
+*.bin
+app
+main
+
+# Libraries
+*.lib
+*.a
+*.dll
+*.so
+
+# Debugging files
+*.dSYM/
+*.su
+*.gch
+*.pdb
+*.idb
+
+# Build directories and logs
+/build/
+/build-tests/
+/Release/
+/Debug/
+/CMakeFiles/
+/CMakeCache.txt
+*.log
+*.swp
+*.tmp
+*.cache
+
+# Visual Studio project files
+*.vcxproj
+*.vcxproj.filters
+*.sln
+*.user
+
+# System files
+Thumbs.db
+.DS_Store
