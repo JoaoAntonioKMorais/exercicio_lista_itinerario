@@ -48,6 +48,7 @@ Em uma linha circular de ônibus, uma **lista circular** poderia ser mais vantaj
 ```bash
  g++ -o teste tests/teste.cpp src/itinerario.cpp -Iinclude
 ./teste
+```
 
 ### Programa principal
 ```bash
